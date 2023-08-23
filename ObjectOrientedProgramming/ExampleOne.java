@@ -1,6 +1,7 @@
 package ObjectOrientedProgramming;
 
 public class ExampleOne {
+    // Atrributes
     String name = "Akter Molla";
     int age = 25;
 
