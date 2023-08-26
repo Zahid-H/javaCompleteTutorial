@@ -16,7 +16,7 @@ public class Userinput {
             System.out.println("Enter Your Department: ");
             String dept = sc.nextLine();
 
-        
+
 
         System.out.println("Name: "+name);
         System.out.println("Age: "+age);
