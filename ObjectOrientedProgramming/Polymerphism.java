@@ -18,7 +18,7 @@ public class Polymerphism {
         System.out.println(p.Movie());
         System.out.println(p.Movie("Good colloection","Holloywood"));
         System.out.println(p.Movie(3,"super sunday"));
-        
+
 
 
 
